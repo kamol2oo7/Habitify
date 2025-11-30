@@ -1,0 +1,5 @@
+{
+  "name": "Habitify",
+  "description": "A minimalist, monochrome habit tracker and bad-habit breaker. Features a comprehensive 30-day matrix view, metric correlation charts, and AI-powered consistency analysis.",
+  "requestFramePermissions": []
+}
